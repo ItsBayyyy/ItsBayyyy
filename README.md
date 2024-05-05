@@ -39,3 +39,12 @@
     <img src="https://skillicons.dev/icons?i=ts,stackoverflow,vscode,postman,npm,mongodb,laravel,jquery,docker,codepen">
   </a>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ItsBayyyy/output/github-contribution-grid-snake.svg" />
+</div>
