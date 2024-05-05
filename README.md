@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ItsBayyyy.visitor-badge" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ItsBayyyy.visitor-badge)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
