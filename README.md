@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  🌴 I'm currently learning **Elysia.js, React.js, CodeIgniter-4**
+  🌴 I'm currently learning **Elysia.js, React.js, CodeIgniter4**
 
   💬 Ask me about **Node.js, Python, Laravel, MongoDB... or anything [here](https://github.com/ItsBayyyy)**
   
